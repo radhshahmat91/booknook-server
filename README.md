@@ -2,8 +2,8 @@
 
 REST API for [BookNook](../booknook-client), built with Express and MongoDB. Protected routes verify a JWT issued by the Next.js client.
 
-- **Live API:** https://your-booknook-api.vercel.app *(replace with your deployed URL)*
-- **Client repository:** https://github.com/your-username/booknook-client
+- **Live API:**https://booknook-client-murex.vercel.app*
+- **Client repository:**https://github.com/radhshahmat91/booknook-client
 
 ## API
 
